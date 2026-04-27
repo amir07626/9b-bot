@@ -29,24 +29,24 @@ USTOZLAR = {
     "Tarbiya": {"ism": "Tadjiev Saxiyor", "tavsif": "Tarbiya o'qituvchisi", "sinf_rahbari": False}
 }
 
-OQUVCHILAR = {
-    "Abdulloyev Komron": {"tavsif": "15 yosh, matematikaga qiziqadi"},
-    "Bozorov Bexruz": {"tavsif": "15 yosh, matematikaga qiziqadi"},
-    "Bozorov Shaxruz": {"tavsif": "15 yosh, biyalogiyaga va matematikaga qiziqadi"},
-    "Davronova Maftuna": {"tavsif": "15 yosh, misollar yechishni yaxshi ko'radi"},
-    "Javoxirov Firuz": {"tavsif": "15 yosh, futbolga qiziqadi"},
-    "Komilova Amina": {"tavsif": "15 yosh, qo'shiq aytishni yaxshi ko'radi"},
-    "Kurbanova Mexrangiz": {"tavsif": "15 yosh, sportni  yaxshi ko'radi"},
-    "Lukmonova Fariza": {"tavsif": "15 yosh, Adabiyotga qiziqadi"},
-    "Maksadjonova Bahora": {"tavsif": "15 yosh, biyalogiyaga qiziqadi"},
-    "Mamatkulov Damir": {"tavsif": "15 yosh, fizika va kimyoga qiziqadi"},
-    "Niyazov Jaxongir": {"tavsif": "15 yosh, sportga qiziqadi"},
-    "Raximov Qaxramon": {"tavsif": "15 yosh, sportga qiziqadi"},
-    "Raxmatov Azamjon": {"tavsif": "15 yosh, geografiya va ingliz tiliga qiziqadi"},
-    "Tolibova Visola": {"tavsif": "14 yosh, raqsga misollar yechishni yaxshi ko'radi"},
-    "Uzakov Amir": {"tavsif": "15 yosh, texnologiyaga va informati ka xam qiziqadi"},
-    "Xafizov Xusan": {"tavsif": "15 yosh, motisiklga qiziqadi"},
-    "Xodjiyeva Shaxina": {"tavsif": "15 yosh, rasm chizishga qiziqadi"},
-    "Xomidova Diora": {"tavsif": "15 yosh, rus-tiliga  qiziqadi"},
-    "Yaxyayeva Jasmina": {"tavsif": "15 yosh, san'atga qiziqadi"}
+O'QUVCHILAR = {
+    "Abdulloyev Komron": {"tavsif": "15 yosh, matematikaga qiziqadi🧮📚"},
+    "Bozorov Bexruz": {"tavsif": "15 yosh, matematikaga qiziqadi🧮📐"},
+    "Bozorov Shaxruz": {"tavsif": "15 yosh, Kelajakda Bank soxasida ishlamoqchi 🏦"},
+    "Davronova Maftuna": {"tavsif": "15 yosh, Misollar yechishni yaxshi ko'radi 📚🧮"},
+    "Javoxirov Firuz": {"tavsif": "15 yosh, Major Avto salonida ish yuritadi 🚗"},
+    "Komilova Amina": {"tavsif": "15 yosh, Yaxshi ko'rgan fanlari bor 🤔"},
+    "Kurbanova Mexrangiz": {"tavsif": "15 yosh, sportga boradi 🥊🥇"},
+    "Lukmonova Fariza": {"tavsif": "15 yosh, Yaxshi ko'rgan fanlari bor 🤔"},
+    "Maqsadjonova Bahora": {"tavsif": "15 yosh, Yaxshi ko'rgan fanlari bor 🤔"},
+    "Mamatkulov Damir": {"tavsif": "15 yosh, Biyalogiyadan qo'shimchaga boradi 🔬📚"},
+    "Niyozov Jaxongir": {"tavsif": "15 yosh, sportga qiziqadi ⚽️"},
+    "Raximov Qaxramon": {"tavsif": "15 yosh, Ing-tiliga boradi 📚"},
+    "Raxmatov Azamjon": {"tavsif": "15 yosh, Kelajakda Logistikada ishlamoqchi 🇺🇸🚛"},
+    "Tolibova Visola": {"tavsif": "14 yosh, Yaxshi ko'rgan fanlari bor 🤔"},
+    "Uzakov Amir": {"tavsif": "15 yosh, shu botni yasagan 😎"},
+    "Xafizov Xusan": {"tavsif": "15 yosh, Kelajakda Motosikl olmoqchi 🏍️"},
+    "Xodjiyeva Shaxina": {"tavsif": "15 yosh, rasm chizishga qiziqadi 🖼️"},
+    "Xomidova Diyora": {"tavsif": "15 yosh, Yaxshi ko'rgan fanlari bor"},
+    "Yaxyayeva Jasmina": {"tavsif": "15 yosh, Yaxshi ko'rgan fanlari bor 🤔"}
 }
