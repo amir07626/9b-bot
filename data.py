@@ -29,7 +29,7 @@ USTOZLAR = {
     "Tarbiya": {"ism": "Tadjiev Saxiyor", "tavsif": "Tarbiya o'qituvchisi", "sinf_rahbari": False}
 }
 
-O'QUVCHILAR = {
+OQUVCHILAR = {
     "Abdulloyev Komron": {"tavsif": "15 yosh, matematikaga qiziqadi🧮📚"},
     "Bozorov Bexruz": {"tavsif": "15 yosh, matematikaga qiziqadi🧮📐"},
     "Bozorov Shaxruz": {"tavsif": "15 yosh, Kelajakda Bank soxasida ishlamoqchi 🏦"},
